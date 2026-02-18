@@ -84,7 +84,7 @@ After filling out all fields, click the **Create Server Request** button.
 **What happens next:**
 
 1. **Ticket Created** — Your submission creates a support ticket viewable in the **Tickets** section of your dashboard
-2. **Review Process** — Our team reviews your submission to ensure it meets our [Listing Policy](listing-policy)
+2. **Review Process** — Our team reviews your submission to ensure it meets our [Listing Policy](/docs/listing-policy)
 3. **Approval** — Once approved, your server goes live on osu!Server List!
 4. **Notification** — You'll receive updates on your ticket regarding the status
 
