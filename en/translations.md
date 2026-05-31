@@ -35,6 +35,8 @@ Help translate the main website interface, buttons, messages, and user-facing te
 **Current Progress**:
 - English (100% - Base language)
 - German (100% - Complete)
+- Polish (100% - Complete)
+- Russian (100% - Complete)
 - Other languages welcome!
 
 * * *
